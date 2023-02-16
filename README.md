@@ -23,7 +23,7 @@
   <!-- REPO VIEWS -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=juzershakir.countdown&left_color=black&right_color=green&style=for-the-badge&logo=Github"/>
   <!-- WAKATIME -->
-    <a href="https://wakatime.com/badge/user/ccef187f-4308-4666-920d-d0a9a07d713a/project/cc01c9e5-5e2c-45e6-a668-67acafb76f18"><img src="https://wakatime.com/badge/user/ccef187f-4308-4666-920d-d0a9a07d713a/project/cc01c9e5-5e2c-45e6-a668-67acafb76f18.svg" alt="wakatime"></a>
+  <a href="https://wakatime.com/badge/user/ccef187f-4308-4666-920d-d0a9a07d713a/project/56e1eda3-db8c-47a7-93c6-341e105f16eb"><img src="https://wakatime.com/badge/user/ccef187f-4308-4666-920d-d0a9a07d713a/project/56e1eda3-db8c-47a7-93c6-341e105f16eb.svg" alt="wakatime"></a>
 </div>
 
 <br>
